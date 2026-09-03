@@ -419,9 +419,19 @@
         "filename": "imus.kicad_sch",
         "name": "IMUs",
         "uuid": "4e1a1d0b-e145-461f-947b-6e699d213e01"
+      },
+      {
+        "filename": "barometers.kicad_sch",
+        "name": "Barometers",
+        "uuid": "71c2cbe8-99de-4665-abc8-f17b52382c0f"
+      },
+      {
+        "filename": "magnetometer.kicad_sch",
+        "name": "Magnetometer",
+        "uuid": "994676de-afa4-4a75-ad48-bd9b34af4052"
       }
     ],
-    "used_designators": "#PWR7-12,C3-4,R2",
+    "used_designators": "U4-7,#PWR13-34,C5-11,R3-5",
     "variants": []
   },
   "sheets": [
@@ -432,6 +442,14 @@
     [
       "4e1a1d0b-e145-461f-947b-6e699d213e01",
       "IMUs"
+    ],
+    [
+      "71c2cbe8-99de-4665-abc8-f17b52382c0f",
+      "Barometers"
+    ],
+    [
+      "994676de-afa4-4a75-ad48-bd9b34af4052",
+      "Magnetometer"
     ]
   ],
   "text_variables": {},
