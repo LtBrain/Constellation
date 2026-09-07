@@ -397,7 +397,7 @@
       "operating_point_overlay_v_range": "~V",
       "overbar_offset_ratio": 1.23,
       "pin_symbol_size": 25.0,
-      "text_offset_ratio": 0.15
+      "text_offset_ratio": 0.4
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
@@ -421,7 +421,7 @@
         "uuid": "d678d3a6-a9b4-4f7c-81c2-7a696cd63729"
       }
     ],
-    "used_designators": "C5-7,C12-28,R3-4,R9-18,U2,U4,U6,U9-18,#PWR1-23,#PWR40-96",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

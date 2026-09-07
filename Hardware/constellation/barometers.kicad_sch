@@ -1443,221 +1443,104 @@
 		)
 		(uuid "f6c0a657-09a0-4573-a7e0-3e02b1699e14")
 	)
-	(global_label "LSM6_MOSI"
+	(hierarchical_label "BMP_SCK"
 		(shape input)
-		(at 116.205 129.54 180)
-		(fields_autoplaced yes)
+		(at 116.205 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "2b4c1d3c-8f85-4aba-8c10-2ee7383f58a2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.1937 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
+		(uuid "11b72d58-b576-4bcc-8ed0-e9360ab09236")
 	)
-	(global_label "LSM6_CS"
+	(hierarchical_label "MS56_SCK"
 		(shape input)
-		(at 116.205 134.62 180)
-		(fields_autoplaced yes)
+		(at 116.205 132.08 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "3386d6c2-fc9a-41c4-b1e6-44ee72299da7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.1937 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
+		(uuid "16d11362-1d40-44bf-bb26-49f53db20c0b")
 	)
-	(global_label "BMP_INT1"
+	(hierarchical_label "BMP_INT1"
 		(shape input)
 		(at 168.275 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "34b83a4d-e9df-47ea-915a-f25995a7ed7b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 187.2863 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
+		(uuid "1d7f1434-15f7-495b-833b-61d59cf4b743")
 	)
-	(global_label "LSM6_MISO"
-		(shape input)
-		(at 116.205 127 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "af7f3370-2144-4d90-8a63-c7eac793488f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.1937 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "BMP_MOSI"
+	(hierarchical_label "BMP_MOSI"
 		(shape input)
 		(at 116.205 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "c2a7237f-3f90-4d9b-a72f-fd0e8a984d56")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.1937 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
+		(uuid "4d8f1d4d-dd73-40f6-90f1-ee7e8f6e997b")
 	)
-	(global_label "BMP_MISO"
+	(hierarchical_label "MS56_MOSI"
+		(shape input)
+		(at 116.205 129.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4ddcbc4a-e0c6-45a4-9c38-1f00b8f3dd21")
+	)
+	(hierarchical_label "BMP_MISO"
 		(shape input)
 		(at 116.205 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "caf60075-c82d-4610-b144-f21404844f57")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.1937 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
+		(uuid "5ea0bc01-e50f-4174-b916-c896749650ac")
 	)
-	(global_label "BMP_SCK"
-		(shape input)
-		(at 116.205 83.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "cd171588-b62a-4a51-897e-7bb16433455b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.1937 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "LSM6_SCK"
-		(shape input)
-		(at 116.205 132.08 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d10c9c69-9f8d-4693-beea-4b8ae9942a4a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.1937 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "BMP_CS"
+	(hierarchical_label "BMP_CS"
 		(shape input)
 		(at 116.205 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "d721de1d-354a-49ff-bd00-9b26a2eadb43")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.1937 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
+		(uuid "ac79eb29-cc30-4355-9cc3-8eb0442d89d8")
+	)
+	(hierarchical_label "MS56_CS"
+		(shape input)
+		(at 116.205 134.62 180)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify right)
 		)
+		(uuid "be9f28cc-389a-4a9c-a03f-da623dfd53ac")
+	)
+	(hierarchical_label "MS56_MISO"
+		(shape input)
+		(at 116.205 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f55f983d-56d1-4a58-821c-db325a233d3c")
 	)
 	(symbol
 		(lib_id "Device:C_Small")

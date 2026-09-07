@@ -1138,125 +1138,60 @@
 		)
 		(uuid "f6429999-643e-4fa3-b649-3d2398e8aeac")
 	)
-	(global_label "MMC_MISO"
-		(shape input)
-		(at 111.76 100.33 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0f89c707-04c5-470f-bb4f-8c2213f60c18")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.7487 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "MMC_SCK"
-		(shape input)
-		(at 111.76 97.79 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2a34f3f2-2510-4612-a7de-01d904256327")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.7487 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "MMC_CS"
-		(shape input)
-		(at 111.76 95.25 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a58719d5-e40b-4f19-85d2-3007a6b05bfd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.7487 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "MMC_MOSI"
-		(shape input)
-		(at 111.76 102.87 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d4404154-38c3-44e0-bfe9-c518921cdffb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.7487 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "MMC_INT"
+	(hierarchical_label "MMC_INT"
 		(shape input)
 		(at 161.29 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "ffa8b8b2-2a5d-4967-9a2a-18210b6062e6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 180.3013 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
+		(uuid "0eb6d80f-7ad1-4219-be76-d4073cdf092b")
+	)
+	(hierarchical_label "MMC_MISO"
+		(shape input)
+		(at 111.76 100.33 180)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify right)
 		)
+		(uuid "91ce3f9f-3339-4c25-887f-c97063385045")
+	)
+	(hierarchical_label "MMC_MOSI"
+		(shape input)
+		(at 111.76 102.87 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d8d1623a-eea3-4d80-aa0c-c43a074d0664")
+	)
+	(hierarchical_label "MMC_CS"
+		(shape input)
+		(at 111.76 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d8ebd74a-58e9-4db8-9a8b-fcd04ae1d8a3")
+	)
+	(hierarchical_label "MMC_SCK"
+		(shape input)
+		(at 111.76 97.79 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ef8e47e2-6e1a-44d4-ba36-ea9b32f93599")
 	)
 	(symbol
 		(lib_id "Device:R_Small")
