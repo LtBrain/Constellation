@@ -416,22 +416,12 @@
         "uuid": "ba226b81-7f6b-4f1e-964f-d5311904768c"
       },
       {
-        "filename": "imus.kicad_sch",
-        "name": "IMUs",
-        "uuid": "4e1a1d0b-e145-461f-947b-6e699d213e01"
-      },
-      {
-        "filename": "barometers.kicad_sch",
-        "name": "Barometers",
-        "uuid": "71c2cbe8-99de-4665-abc8-f17b52382c0f"
-      },
-      {
-        "filename": "magnetometer.kicad_sch",
-        "name": "Magnetometer",
-        "uuid": "994676de-afa4-4a75-ad48-bd9b34af4052"
+        "filename": "gnss.kicad_sch",
+        "name": "GNSS",
+        "uuid": "d678d3a6-a9b4-4f7c-81c2-7a696cd63729"
       }
     ],
-    "used_designators": "U4-7,#PWR13-34,C5-11,R3-5",
+    "used_designators": "C5-7,C12-28,R3-4,R9-18,U2,U4,U6,U9-18,#PWR1-23,#PWR40-96",
     "variants": []
   },
   "sheets": [
@@ -440,16 +430,28 @@
       "Constellation"
     ],
     [
-      "4e1a1d0b-e145-461f-947b-6e699d213e01",
+      "efa720f8-9312-4e52-bc7f-36466735484c",
+      "Processor"
+    ],
+    [
+      "c727e166-794d-46fa-ba85-5f8ee24b890e",
       "IMUs"
     ],
     [
-      "71c2cbe8-99de-4665-abc8-f17b52382c0f",
+      "e58ad819-5158-48e0-9ab4-5c84433e006e",
       "Barometers"
     ],
     [
-      "994676de-afa4-4a75-ad48-bd9b34af4052",
+      "833f150c-4f40-4160-a734-8b08143c85db",
       "Magnetometer"
+    ],
+    [
+      "8ef0bafe-e56b-4ed3-8e19-af101ba69e51",
+      "Accelerometer"
+    ],
+    [
+      "d678d3a6-a9b4-4f7c-81c2-7a696cd63729",
+      "GNSS"
     ]
   ],
   "text_variables": {},
