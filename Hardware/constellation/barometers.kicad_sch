@@ -1465,7 +1465,7 @@
 		)
 		(uuid "16d11362-1d40-44bf-bb26-49f53db20c0b")
 	)
-	(hierarchical_label "BMP_INT1"
+	(hierarchical_label "BMP_INT"
 		(shape input)
 		(at 168.275 83.82 0)
 		(effects
