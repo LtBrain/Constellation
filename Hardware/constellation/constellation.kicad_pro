@@ -414,14 +414,9 @@
         "filename": "constellation.kicad_sch",
         "name": "Constellation",
         "uuid": "ba226b81-7f6b-4f1e-964f-d5311904768c"
-      },
-      {
-        "filename": "gnss.kicad_sch",
-        "name": "GNSS",
-        "uuid": "d678d3a6-a9b4-4f7c-81c2-7a696cd63729"
       }
     ],
-    "used_designators": "Q1-2,L1,#PWR69-71,R1,R14-15,J1,C21",
+    "used_designators": "L1-2,#PWR31-39,#PWR69-81,C9,C21-23,Q1-4,Y2-3,J1-2,R1-2,R7-8,R14-17,U8,U13",
     "variants": []
   },
   "sheets": [
@@ -450,7 +445,7 @@
       "Accelerometer"
     ],
     [
-      "d678d3a6-a9b4-4f7c-81c2-7a696cd63729",
+      "024ded0e-182d-4822-a380-1069265c1486",
       "GNSS"
     ]
   ],
