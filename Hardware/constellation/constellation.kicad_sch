@@ -10804,7 +10804,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "magnometer.kicad_sch"
+		(property "Sheetfile" "magnetometer.kicad_sch"
 			(at 275.59 201.8796 0)
 			(show_name no)
 			(do_not_autoplace no)
