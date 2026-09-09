@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "26da2550-6364-42cc-a5e8-dd3c24749827")
+	(paper "A4")
+	(title_block
+		(title "LORA Transceiver Circuitry")
+		(date "2026-09-07")
+		(rev "A")
+	)
+	(lib_symbols)
+)

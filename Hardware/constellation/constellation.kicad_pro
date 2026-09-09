@@ -253,7 +253,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "LR2021"
+    ]
   },
   "meta": {
     "filename": "constellation.kicad_pro",
@@ -416,7 +418,7 @@
         "uuid": "ba226b81-7f6b-4f1e-964f-d5311904768c"
       }
     ],
-    "used_designators": "L1-2,#PWR31-39,#PWR69-81,C9,C21-23,Q1-4,Y2-3,J1-2,R1-2,R7-8,R14-17,U8,U13",
+    "used_designators": "L1-3,#PWR31-39,#PWR69-90,C9,C21-23,Q1-6,Y2-4,J1-3,R1-3,R7-8,R14-19,U8,U13-14",
     "variants": []
   },
   "sheets": [
@@ -447,6 +449,10 @@
     [
       "024ded0e-182d-4822-a380-1069265c1486",
       "GNSS"
+    ],
+    [
+      "ee7bb32f-b13d-4ab0-a3c0-7eccf92cdd39",
+      "LORA"
     ]
   ],
   "text_variables": {},
