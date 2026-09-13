@@ -2075,7 +2075,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "016699d7-4920-4290-a330-20287109b569")
-		(property "Reference" "C17"
+		(property "Reference" "C2"
 			(at 172.72 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2139,7 +2139,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "C17")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -2157,7 +2157,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05b11597-5929-4c94-8623-269d5c226619")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR01"
 			(at 123.825 120.015 0)
 			(hide yes)
 			(show_name no)
@@ -2217,7 +2217,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR040")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -2234,7 +2234,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "124635dd-ec68-4154-8075-26b13739f94e")
-		(property "Reference" "C19"
+		(property "Reference" "C4"
 			(at 181.61 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2298,7 +2298,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "C19")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -2316,7 +2316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12ccaea6-3fb6-4034-8d39-8224f85cec4a")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR09"
 			(at 170.815 62.865 0)
 			(hide yes)
 			(show_name no)
@@ -2376,7 +2376,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR048")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -2394,7 +2394,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1954e93c-8870-4f74-aa54-62c2b9402326")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR06"
 			(at 147.32 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -2454,7 +2454,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR045")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -2472,7 +2472,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "287ee5d8-221a-48a6-8c8c-5daec0586170")
-		(property "Reference" "U11"
+		(property "Reference" "U2"
 			(at 150.876 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2621,7 +2621,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "U11")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -2638,7 +2638,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3089eeda-1f45-4676-9a2c-a85a398db45b")
-		(property "Reference" "R12"
+		(property "Reference" "R2"
 			(at 127.635 64.1351 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2702,7 +2702,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "R12")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -2720,7 +2720,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "520e933b-9dfd-4afd-88a1-5bd798ef0ccf")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR08"
 			(at 148.59 120.015 0)
 			(hide yes)
 			(show_name no)
@@ -2780,7 +2780,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR047")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -2797,7 +2797,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6439e4e3-1d2c-4a50-8953-58ea0a893b94")
-		(property "Reference" "C16"
+		(property "Reference" "C1"
 			(at 172.72 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2861,7 +2861,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "C16")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -2878,7 +2878,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7686f3a8-f07c-4544-96e7-a4c144406bc6")
-		(property "Reference" "C18"
+		(property "Reference" "C3"
 			(at 181.61 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2942,7 +2942,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "C18")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -2959,7 +2959,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9f48c9fd-c9b5-4e64-a42f-ab933d8bb632")
-		(property "Reference" "R11"
+		(property "Reference" "R1"
 			(at 125.095 121.9201 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3023,7 +3023,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "R11")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -3041,7 +3041,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a27f69ab-e129-4fb5-98b6-02977ecd1189")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR012"
 			(at 179.705 132.715 0)
 			(hide yes)
 			(show_name no)
@@ -3101,7 +3101,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR051")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -3119,7 +3119,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad3d8045-3205-4428-a459-659a0660a7f9")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR04"
 			(at 126.365 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -3179,7 +3179,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR043")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -3197,7 +3197,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af6c11af-4220-4ad9-a44c-cf72d17e5647")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR010"
 			(at 170.815 120.015 0)
 			(hide yes)
 			(show_name no)
@@ -3257,7 +3257,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR049")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -3275,7 +3275,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da7a6277-3185-4d19-8d68-d14c44dee104")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR011"
 			(at 179.705 75.565 0)
 			(hide yes)
 			(show_name no)
@@ -3335,7 +3335,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR050")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -3353,7 +3353,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbd619d2-7001-4b79-ab12-6ceca012d8fc")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR03"
 			(at 126.365 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -3413,7 +3413,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR042")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -3431,7 +3431,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebb493a6-c48a-4a4a-af80-bf4216f0e12f")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR02"
 			(at 126.365 62.865 0)
 			(hide yes)
 			(show_name no)
@@ -3491,7 +3491,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR041")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -3509,7 +3509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed7a17d5-578a-47cc-8de8-b5ee33e7d205")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR05"
 			(at 147.32 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -3569,7 +3569,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR044")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -3587,7 +3587,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "edce3bd0-98ed-4e43-97a8-8a1dd0869c6b")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR07"
 			(at 148.59 62.865 0)
 			(hide yes)
 			(show_name no)
@@ -3647,7 +3647,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "#PWR046")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -3664,7 +3664,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f5d99d1d-86cf-48c4-965e-8376ad670e0c")
-		(property "Reference" "U12"
+		(property "Reference" "U3"
 			(at 150.495 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3765,7 +3765,7 @@
 		(instances
 			(project "constellation"
 				(path "/ba226b81-7f6b-4f1e-964f-d5311904768c/c727e166-794d-46fa-ba85-5f8ee24b890e"
-					(reference "U12")
+					(reference "U3")
 					(unit 1)
 				)
 			)
