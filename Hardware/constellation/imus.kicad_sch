@@ -1955,7 +1955,7 @@
 		(uuid "228cbd47-dc39-4aa2-b48f-fe519796696c")
 	)
 	(hierarchical_label "LSM6_INT2"
-		(shape input)
+		(shape output)
 		(at 165.1 132.08 0)
 		(effects
 			(font
@@ -1999,7 +1999,7 @@
 		(uuid "5a57e307-0fe8-44f9-9677-71fd91c3105a")
 	)
 	(hierarchical_label "LSM6_INT1"
-		(shape input)
+		(shape output)
 		(at 165.1 129.54 0)
 		(effects
 			(font
@@ -2010,7 +2010,7 @@
 		(uuid "8202d0e6-76b9-4984-97d7-adefab40e68f")
 	)
 	(hierarchical_label "ICM_INT1"
-		(shape input)
+		(shape output)
 		(at 169.545 76.2 0)
 		(effects
 			(font
@@ -2021,7 +2021,7 @@
 		(uuid "87e8a113-fb3b-47bc-9add-9eedded6dd02")
 	)
 	(hierarchical_label "ICM_MISO"
-		(shape input)
+		(shape output)
 		(at 113.03 76.2 180)
 		(effects
 			(font
@@ -2032,7 +2032,7 @@
 		(uuid "a3841bbb-2c25-4e87-a018-438ca57f8950")
 	)
 	(hierarchical_label "LSM6_MISO"
-		(shape input)
+		(shape output)
 		(at 113.03 127 180)
 		(effects
 			(font
@@ -2054,7 +2054,7 @@
 		(uuid "e1630ae4-2220-4033-a6a7-1163051a6ab3")
 	)
 	(hierarchical_label "ICM_INT2"
-		(shape input)
+		(shape output)
 		(at 169.545 78.74 0)
 		(effects
 			(font

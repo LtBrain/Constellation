@@ -3856,7 +3856,7 @@
 	)
 	(symbol
 		(lib_id "MCU_ST_STM32H7:STM32H723ZGTx")
-		(at 208.28 151.13 0)
+		(at 207.01 158.115 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3867,7 +3867,7 @@
 		(fields_autoplaced yes)
 		(uuid "82b434ee-2a51-476e-aecf-0f831f3e9800")
 		(property "Reference" "U1"
-			(at 212.9633 242.57 0)
+			(at 211.6933 249.555 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3878,7 +3878,7 @@
 			)
 		)
 		(property "Value" "STM32H723ZGTx"
-			(at 212.9633 245.11 0)
+			(at 211.6933 252.095 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3889,7 +3889,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:LQFP-144_20x20mm_P0.5mm"
-			(at 175.26 240.03 0)
+			(at 173.99 247.015 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3901,7 +3901,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32h723zg.pdf"
-			(at 208.28 151.13 0)
+			(at 207.01 158.115 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3912,7 +3912,7 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M7 MCU, 1024KB flash, 564KB RAM, 550 MHz, 1.62-3.6V, 114 GPIO, LQFP144"
-			(at 208.28 151.13 0)
+			(at 207.01 158.115 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

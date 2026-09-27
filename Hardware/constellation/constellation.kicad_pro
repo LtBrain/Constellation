@@ -414,9 +414,14 @@
         "filename": "constellation.kicad_sch",
         "name": "Constellation",
         "uuid": "ba226b81-7f6b-4f1e-964f-d5311904768c"
+      },
+      {
+        "filename": "system_power.kicad_sch",
+        "name": "System Power",
+        "uuid": "9b4fdc80-cbcf-4ea0-b2a9-8e092d9a85f5"
       }
     ],
-    "used_designators": "L2-3,#PWR46-58,U10,C13-21,R18-19,J2,Y2-3",
+    "used_designators": "U11-12,#PWR73-78,D2-7,R46-51",
     "variants": []
   },
   "sheets": [
@@ -451,6 +456,18 @@
     [
       "ee7bb32f-b13d-4ab0-a3c0-7eccf92cdd39",
       "LORA"
+    ],
+    [
+      "15797ec2-8b42-4746-adad-bd15fa461c40",
+      "Servos"
+    ],
+    [
+      "17d59a4b-8b73-48a0-922f-09ad9522bfb5",
+      "Pyros"
+    ],
+    [
+      "9b4fdc80-cbcf-4ea0-b2a9-8e092d9a85f5",
+      "System Power"
     ]
   ],
   "text_variables": {},

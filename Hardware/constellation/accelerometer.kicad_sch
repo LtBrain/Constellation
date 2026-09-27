@@ -1173,7 +1173,7 @@
 		(uuid "4c43c392-276b-42fe-abff-903d303d6625")
 	)
 	(hierarchical_label "H3L_INT2"
-		(shape input)
+		(shape output)
 		(at 161.925 102.87 0)
 		(effects
 			(font
@@ -1184,7 +1184,7 @@
 		(uuid "987466a7-20f8-403b-952e-d6961176e275")
 	)
 	(hierarchical_label "H3L_MISO"
-		(shape input)
+		(shape output)
 		(at 120.015 102.87 180)
 		(effects
 			(font
@@ -1195,7 +1195,7 @@
 		(uuid "a8bb90d8-c91a-4810-ac05-90ed9ed9d219")
 	)
 	(hierarchical_label "H3L_INT1"
-		(shape input)
+		(shape output)
 		(at 161.925 100.33 0)
 		(effects
 			(font

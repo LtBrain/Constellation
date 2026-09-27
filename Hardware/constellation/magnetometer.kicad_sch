@@ -1144,7 +1144,7 @@
 		(uuid "3c41b3d3-8201-4e84-a858-8f3b69a5cdb0")
 	)
 	(hierarchical_label "MMC_INT"
-		(shape input)
+		(shape output)
 		(at 161.29 95.25 0)
 		(effects
 			(font
@@ -1177,7 +1177,7 @@
 		(uuid "89462d5a-75c3-4d8b-a2c5-2124a68cec31")
 	)
 	(hierarchical_label "MMC_MISO"
-		(shape input)
+		(shape output)
 		(at 111.76 100.33 180)
 		(effects
 			(font
